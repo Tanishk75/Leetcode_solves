@@ -10,12 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Tanishk75/Leetcode_solves/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Tanishk75/Leetcode_solves/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Tanishk75/Leetcode_solves/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Tanishk75/Leetcode_solves/tree/master/0242-valid-anagram) |
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Tanishk75/Leetcode_solves/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Tanishk75/Leetcode_solves/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -29,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Tanishk75/Leetcode_solves/tree/master/0014-longest-common-prefix) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Tanishk75/Leetcode_solves/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
