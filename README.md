@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Tanishk75/Leetcode_solves/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tanishk75/Leetcode_solves/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Tanishk75/Leetcode_solves/tree/master/0125-valid-palindrome) |
 ## String
@@ -23,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Tanishk75/Leetcode_solves/tree/master/0016-3sum-closest) |
 | [0242-valid-anagram](https://github.com/Tanishk75/Leetcode_solves/tree/master/0242-valid-anagram) |
 ## Array
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Tanishk75/Leetcode_solves/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/Tanishk75/Leetcode_solves/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tanishk75/Leetcode_solves/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Trie
 |  |
