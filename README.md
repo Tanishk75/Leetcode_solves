@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Tanishk75/Leetcode_solves/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Tanishk75/Leetcode_solves/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tanishk75/Leetcode_solves/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Tanishk75/Leetcode_solves/tree/master/1004-max-consecutive-ones-iii) |
 ## Trie
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tanishk75/Leetcode_solves/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tanishk75/Leetcode_solves/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Tanishk75/Leetcode_solves/tree/master/1004-max-consecutive-ones-iii) |
 ## Stack
 |  |
 | ------- |
@@ -64,8 +66,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Tanishk75/Leetcode_solves/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Tanishk75/Leetcode_solves/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Tanishk75/Leetcode_solves/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Tanishk75/Leetcode_solves/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
