@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tanishk75/Leetcode_solves/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Tanishk75/Leetcode_solves/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Tanishk75/Leetcode_solves/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/Tanishk75/Leetcode_solves/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Tanishk75/Leetcode_solves/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Tanishk75/Leetcode_solves/tree/master/0242-valid-anagram) |
 ## Hash Table
@@ -23,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tanishk75/Leetcode_solves/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Tanishk75/Leetcode_solves/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/Tanishk75/Leetcode_solves/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Tanishk75/Leetcode_solves/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Tanishk75/Leetcode_solves/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/Tanishk75/Leetcode_solves/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Tanishk75/Leetcode_solves/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Tanishk75/Leetcode_solves/tree/master/0242-valid-anagram) |
 ## Array
@@ -36,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Tanishk75/Leetcode_solves/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/Tanishk75/Leetcode_solves/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tanishk75/Leetcode_solves/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/Tanishk75/Leetcode_solves/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Tanishk75/Leetcode_solves/tree/master/0075-sort-colors) |
 ## Trie
 |  |
