@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Tanishk75/Leetcode_solves/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tanishk75/Leetcode_solves/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Tanishk75/Leetcode_solves/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Tanishk75/Leetcode_solves/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Tanishk75/Leetcode_solves/tree/master/0125-valid-palindrome) |
 ## String
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Tanishk75/Leetcode_solves/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Tanishk75/Leetcode_solves/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Tanishk75/Leetcode_solves/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Tanishk75/Leetcode_solves/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Tanishk75/Leetcode_solves/tree/master/0242-valid-anagram) |
 ## Array
 |  |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tanishk75/Leetcode_solves/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/Tanishk75/Leetcode_solves/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Tanishk75/Leetcode_solves/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Tanishk75/Leetcode_solves/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tanishk75/Leetcode_solves/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tanishk75/Leetcode_solves/tree/master/1004-max-consecutive-ones-iii) |
 ## Trie
