@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Tanishk75/Leetcode_solves/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Tanishk75/Leetcode_solves/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Tanishk75/Leetcode_solves/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/Tanishk75/Leetcode_solves/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tanishk75/Leetcode_solves/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tanishk75/Leetcode_solves/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanishk75/Leetcode_solves/tree/master/0215-kth-largest-element-in-an-array) |
+| [0283-move-zeroes](https://github.com/Tanishk75/Leetcode_solves/tree/master/0283-move-zeroes) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tanishk75/Leetcode_solves/tree/master/1004-max-consecutive-ones-iii) |
 ## Trie
 |  |
