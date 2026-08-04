@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Tanishk75/Leetcode_solves/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Tanishk75/Leetcode_solves/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tanishk75/Leetcode_solves/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/Tanishk75/Leetcode_solves/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanishk75/Leetcode_solves/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Tanishk75/Leetcode_solves/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Tanishk75/Leetcode_solves/tree/master/0283-move-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/Tanishk75/Leetcode_solves/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tanishk75/Leetcode_solves/tree/master/1004-max-consecutive-ones-iii) |
 ## Trie
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Tanishk75/Leetcode_solves/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Tanishk75/Leetcode_solves/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tanishk75/Leetcode_solves/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
