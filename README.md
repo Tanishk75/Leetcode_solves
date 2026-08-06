@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Tanishk75/Leetcode_solves/tree/master/0283-move-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Tanishk75/Leetcode_solves/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Tanishk75/Leetcode_solves/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/Tanishk75/Leetcode_solves/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tanishk75/Leetcode_solves/tree/master/1004-max-consecutive-ones-iii) |
 ## Trie
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Tanishk75/Leetcode_solves/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tanishk75/Leetcode_solves/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tanishk75/Leetcode_solves/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/Tanishk75/Leetcode_solves/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tanishk75/Leetcode_solves/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
